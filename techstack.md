@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [akasaa101/face_recognition](https://github.com/akasaa101/face_recognition)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|17<br/>Tools used|11/28/23 <br/>Report generated|
+|18<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -161,17 +161,18 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (6)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[bumpversion](https://pypi.org/bumpversion)|v0.5.3|03/04/17|Adam Geitgey |MIT|N/A|
-|[coverage](https://pypi.org/coverage)|v4.1|03/04/17|Adam Geitgey |Apache-2.0|N/A|
-|[cryptography](https://pypi.org/cryptography)|v1.7|03/04/17|Adam Geitgey |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2020-25659](https://github.com/advisories/GHSA-hggm-jpg3-v476) (Moderate)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)|
-|[watchdog](https://pypi.org/watchdog)|v0.8.3|03/04/17|Adam Geitgey |Apache-2.0|N/A|
-|[wheel](https://pypi.org/wheel)|v0.29.0|03/04/17|Adam Geitgey |MIT|[CVE-2022-40898](https://github.com/advisories/GHSA-qwmp-2cf2-g9g6) (High)|
+|[bumpversion](https://pypi.org/project/bumpversion)|v0.5.3|03/04/17|Adam Geitgey |MIT|N/A|
+|[coverage](https://pypi.org/project/coverage)|v4.1|03/04/17|Adam Geitgey |Apache-2.0|N/A|
+|[cryptography](https://pypi.org/project/cryptography)|v1.7|03/04/17|Adam Geitgey |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2020-25659](https://github.com/advisories/GHSA-hggm-jpg3-v476) (Moderate)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)|
+|[tox](https://pypi.org/project/tox)|v2.3.1|03/04/17|Adam Geitgey |MIT|N/A|
+|[watchdog](https://pypi.org/project/watchdog)|v0.8.3|03/04/17|Adam Geitgey |Apache-2.0|N/A|
+|[wheel](https://pypi.org/project/wheel)|v0.29.0|03/04/17|Adam Geitgey |MIT|[CVE-2022-40898](https://github.com/advisories/GHSA-qwmp-2cf2-g9g6) (High)|
 
 <br/>
 <div align='center'>
